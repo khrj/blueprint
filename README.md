@@ -23,7 +23,7 @@
 ## Usage
 
 ```ts
-import {} from 'https://deno.land/x/blueprint@1.0.0/mod.ts
+import {} from 'https://deno.land/x/blueprint@1.0.1/mod.ts'
 ```
 
 ## Supporters
